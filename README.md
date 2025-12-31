@@ -1,8 +1,8 @@
-# Finance Tracker API Documentation
+# Fintrack API Documentation
 
 ## Overview
 
-The **Finance Tracker API** is a robust, scalable, and modern RESTful API designed to empower users to manage their financial lives effectively. Built with Go, Fiber, and Turso (LibSQL), this project provides a comprehensive backend solution for tracking income, expenses, assets, liabilities, budgets, and financial goals. Whether you're a developer looking to contribute to a cutting-edge project, a recruiter seeking talent with real-world experience, or a client in need of a reliable financial management system, this API offers a professional-grade foundation.
+The **Fintrack API** is a robust, scalable, and modern RESTful API designed to empower users to manage their financial lives effectively. Built with Go, Fiber, and Turso (LibSQL), this project provides a comprehensive backend solution for tracking income, expenses, assets, liabilities, budgets, and financial goals. Whether you're a developer looking to contribute to a cutting-edge project, a recruiter seeking talent with real-world experience, or a client in need of a reliable financial management system, this API offers a professional-grade foundation.
 
 This documentation highlights the system's architecture, features, and extensibility, showcasing its value to technical and non-technical stakeholders alike.
 
